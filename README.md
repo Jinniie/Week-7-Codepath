@@ -19,6 +19,9 @@ This vulnerability is caused by the lack of sanitization in user provided data.
 first open up sql from terminal
 ![image](https://user-images.githubusercontent.com/31251224/31974764-571de22e-b8fb-11e7-8398-8521d7c3a166.png)
 
+then look up the table for a list of users
+![image](https://user-images.githubusercontent.com/31251224/31974860-b76f1ad0-b8fb-11e7-88f6-bf05146a3f85.png)
+
 
 wphttp://localhost/wordpress/index.php/2017/10/19/wp/
 
