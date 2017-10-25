@@ -66,6 +66,12 @@ First download the injection python
 Then pull up the python code like so:
 ![image](https://user-images.githubusercontent.com/31251224/31986365-341ded9c-b936-11e7-9055-d1a3fed05edb.png)
 
+Now you use nano code to input what you want to say on the web:
+
+
+Then, along with the code above, insert the web link you want to use. after the the web link input the content number and the content you wanted to input:
+![image](https://user-images.githubusercontent.com/31251224/31986450-8cada0ec-b936-11e7-86f1-31c4fa365a76.png)
+
 
 
 
