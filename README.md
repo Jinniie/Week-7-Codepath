@@ -22,6 +22,11 @@ first open up sql from terminal
 then look up the table for a list of users
 ![image](https://user-images.githubusercontent.com/31251224/31974860-b76f1ad0-b8fb-11e7-88f6-bf05146a3f85.png)
 
+finally look up columns that contains informations about email id, id, etc
+![image](https://user-images.githubusercontent.com/31251224/31974894-f4253e8c-b8fb-11e7-8323-57d0fe69ee23.png)
+
+Then join the informations from above to find the actual emails of the users.
+
 
 wphttp://localhost/wordpress/index.php/2017/10/19/wp/
 
