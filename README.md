@@ -29,6 +29,7 @@ they are authorized in.
 First you need to execute the csrf file and obtain the prompt.
 And then you search for the information you are looking for and change them into 
 what you desire.
+![image](https://user-images.githubusercontent.com/31251224/31972688-cf5169b6-b8ef-11e7-849d-3fbbe229ef7c.png)
 https://techtites.com/how-to-prevent-csrf-vulnerability-in-wordpress-plugins-and-themes/
 
 
