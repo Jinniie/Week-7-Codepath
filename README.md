@@ -49,10 +49,10 @@ https://techtites.com/how-to-prevent-csrf-vulnerability-in-wordpress-plugins-and
 
 (User Enumeration)
 This is to bypass by getting users information.
-first you need to open up terminal and pull up msfconsole
-then you proceed to the wordpress website's login page
-input msf> then open up the options, and you change those into either true or false as you need.
-After you are finished, tell it to run and get the login information.
+first you need to open up terminal and pull up wpscan and pull up help to see the controls
+![image](https://user-images.githubusercontent.com/31251224/31975497-9e92f69a-b8ff-11e7-92d4-aa01744c59d7.png)
+
+
 
 
 
