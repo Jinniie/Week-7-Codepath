@@ -52,6 +52,9 @@ This is to bypass by getting users information.
 first you need to open up terminal and pull up wpscan and pull up help to see the controls
 ![image](https://user-images.githubusercontent.com/31251224/31975497-9e92f69a-b8ff-11e7-92d4-aa01744c59d7.png)
 
+As it says on the example for enumeration, you input the website and insert --enumerate u to get the list of
+usernames.
+![image](https://user-images.githubusercontent.com/31251224/31975541-e4e693ea-b8ff-11e7-90d9-e37ce2218a5e.png)
 
 
 
