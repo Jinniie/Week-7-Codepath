@@ -62,6 +62,10 @@ usernames.
 Then brute force password by using any of the names from the table.
 
 (PRIVILEGE ESCALATION)
+First download the injection python
+Then pull up the python code like so:
+![image](https://user-images.githubusercontent.com/31251224/31986365-341ded9c-b936-11e7-9055-d1a3fed05edb.png)
+
 
 
 
